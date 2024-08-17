@@ -22,5 +22,5 @@
     { "code": "SFE", "name": "Santa Fe" },
     { "code": "SDE", "name": "Santiago del Estero" },
     { "code": "TDF", "name": "Tierra del Fuego" },
-    { "code": "TUC", "name": "Tucumán" },
+    { "code": "TUC", "name": "Tucumán" }
 ]
